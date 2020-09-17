@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Girasol0817/typescript-learninig/issues"
   },
-  "homepage": "https://github.com/Girasol0817/typescript-learninig#readme"
+  "homepage": "https://github.com/Girasol0817/typescript-learninig#readme",
+  "devDependencies": {
+    "ts-node": "^9.0.0"
+  }
 }
